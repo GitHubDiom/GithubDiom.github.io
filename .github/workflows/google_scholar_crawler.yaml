@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Check GITHUB_ACTOR
+      run: echo "Triggered by $GITHUB_ACTOR"
     - uses: actions/checkout@v2
     - name: Install Reqs
       run: |
