@@ -63,7 +63,7 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 <li><div class="pubtitle">DATE 2021</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/9474067">Blender: A Traffic-Aware Container Placement for Containerized Data Centers.</a> <span class="font-bold">Zhaorui Wu</span>, Yuhui Deng*, Hao Feng, Yi Zhou, and Geyong Min.</li>
 <li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10430447">Minato: A Read-Disturb-Aware Dynamic Buffer Management Scheme for NAND Flash Memory.</a>Shujie Pang, Yuhui Deng*, Genxiong Zhang, Jiande Huangand and <span class="font-bold">Zhaorui Wu</span>.</li>
 <li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10178059">FSPDA: A Full Sequence Program Data Allocation Scheme for boosting 3D NAND Flash Read Performance.</a> Shujie Pang, Yuhui Deng*, <span class="font-bold">Zhaorui Wu</span>, Genxiong Zhang, Jie Li and Xiao Qin.</li>
-<li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10138612">PcGC: A Parity-Check Garbage Collection for Boosting 3D NAND Flash Performance.</a> Shujie Pang, Yuhui Deng*, Genxiong Zhang, Y. Zhou, Xiao Qin, <span class="font-bold">Zhaorui Wu</span>, and Jie Li</li>
+<li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10138612">PcGC: A Parity-Check Garbage Collection for Boosting 3D NAND Flash Performance.</a> Shujie Pang, Yuhui Deng*, Genxiong Zhang, Y. Zhou, Xiao Qin, <span class="font-bold">Zhaorui Wu</span>, and Jie Li.</li>
 <li><div class="pubtitle">TNSM</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10090246">TADRP: Towards Thermal-Aware Data Replica Placement in Data-Intensive Data Centers.</a> J. Li, Yuhui Deng*, Y. Zhou, <span class="font-bold">Zhaorui Wu</span>, Shujie Pang and Geyong Min.</li>
 </ul>
 
@@ -71,11 +71,11 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 
 <!-- # 🎖 Honors and Awards -->
 # Honors and Awards
-- *2023.12* Second Prize for Academic Innovation, 3rd Greater Bay Area Outstanding Graduate Student Thesis Competition
-- *2023.09* Second Prize at Jinan University Graduate Innovation Forum
-- *2022.09* Excellence in Innovation Award at Jinan University Graduate Innovation Forum
-- *2019.12* Third Prize in the 16th Huawei Cup China Graduate Mathematical Modeling Competition
-- *2018.09 - 2023.09* Multiple Recipient of Master's/PhD Academic Scholarship and Outstanding Graduate Student Leader Award
+- *2023.12*, Second Prize for Academic Innovation, 3rd Greater Bay Area Outstanding Graduate Student Thesis Competition
+- *2023.09*, Second Prize at Jinan University Graduate Innovation Forum
+- *2022.09*, Excellence in Innovation Award at Jinan University Graduate Innovation Forum
+- *2019.12*, Third Prize in the 16th Huawei Cup China Graduate Mathematical Modeling Competition
+- *2018.09 - 2023.09*, Multiple Recipient of Master's/PhD Academic Scholarship and Outstanding Graduate Student Leader Award
 
 <!-- # 📖 Educations -->
 # Experiences
@@ -89,3 +89,7 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<hr>
+<img alt="last updated" src="https://img.shields.io/github/last-commit/GitHubDiom/GitHubDiom.github.io?color=e8e8e8&label=Last%20Updated&logo=Convertio&logoColor=white&style=flat-square&labelColor=gray">  &nbsp;
+
+<a href="http://s01.flagcounter.com/more/gWC"><img src="https://s01.flagcounter.com/count2/gWC/bg_F5F5F5/txt_000000/border_8C8C8C/columns_4/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
