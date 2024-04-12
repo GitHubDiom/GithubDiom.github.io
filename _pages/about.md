@@ -61,17 +61,21 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 <li><div class="pubtitle">ICDCS 2023</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10272462">FaaSBatch: Enhancing the Efficiency of Serverless Computing by Batching and Expanding Functions.</a> <span class="font-bold">Zhaorui WU</span>, Yuhui Deng*, Yi Zhou, Jie Li, and Shujie Pang.</li>
 <li><div class="pubtitle">TNSM</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/9650544">Blender: A Container Placement Strategy by Leveraging Zipf-Like Distribution Within Containerized Data Centers.</a> <span class="font-bold">Zhaorui WU</span>, Yuhui Deng*, Hao Feng, Yi Zhou, Geyong Min, and Zhen Zhang.</li>
 <li><div class="pubtitle">DATE 2021</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/9474067">Blender: A Traffic-Aware Container Placement for Containerized Data Centers.</a> <span class="font-bold">Zhaorui WU</span>, Yuhui Deng*, Hao Feng, Yi Zhou, Geyong Min.</li>
-<li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10430447">Minato: A Read-Disturb-Aware Dynamic Buffer Management Scheme for NAND Flash Memory.</span>Shujie Pang, Yuhui Deng*, Genxiong Zhang, Jiande Huangand and <span class="font-bold">Zhaorui WU</span></li>
-<li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10178059">FSPDA: A Full Sequence Program Data Allocation Scheme for boosting 3D NAND Flash Read Performance.</a> Shujie Pang, Yuhui Deng*, <span class="font-bold">Zhaorui WU</span> Genxiong Zhang, Jie Li and Xiao Qin.</li>
+<li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10430447">Minato: A Read-Disturb-Aware Dynamic Buffer Management Scheme for NAND Flash Memory.</a>Shujie Pang, Yuhui Deng*, Genxiong Zhang, Jiande Huangand and <span class="font-bold">Zhaorui WU</span>.</li>
+<li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10178059">FSPDA: A Full Sequence Program Data Allocation Scheme for boosting 3D NAND Flash Read Performance.</a> Shujie Pang, Yuhui Deng*, <span class="font-bold">Zhaorui WU</span>, Genxiong Zhang, Jie Li and Xiao Qin.</li>
 <li><div class="pubtitle">TCAD</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10138612">PcGC: A Parity-Check Garbage Collection for Boosting 3D NAND Flash Performance.</a> Shujie Pang, Yuhui Deng*, Genxiong Zhang, Y. Zhou, Xiao Qin, <span class="font-bold">Zhaorui WU</span>, and Jie Li</li>
 <li><div class="pubtitle">TNSM</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10090246">TADRP: Towards Thermal-Aware Data Replica Placement in Data-Intensive Data Centers.</a> J. Li, Yuhui Deng*, Y. Zhou, <span class="font-bold">Zhaorui WU</span>, Shujie Pang and Geyong Min.</li>
 </ul>
 
 <a href='https://scholar.google.com/citations?user=TiIzqbQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- # 🎖 Honors and Awards -->
+# Honors and Awards
+- *2023.12* Second Prize for Academic Innovation, 3rd Greater Bay Area Outstanding Graduate Student Thesis Competition
+- *2023.09* Second Prize at Jinan University Graduate Innovation Forum
+- *2022.09* Excellence in Innovation Award at Jinan University Graduate Innovation Forum
+- *2019.12* Third Prize in the 16th Huawei Cup China Graduate Mathematical Modeling Competition
+- *2018.09 - 2023.09* Multiple Recipient of Master's/PhD Academic Scholarship and Outstanding Graduate Student Leader Award
 
 <!-- # 📖 Educations -->
 # Experiences
