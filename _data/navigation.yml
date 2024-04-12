@@ -7,12 +7,12 @@ main:
   #   url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
   - title: "Experiences"
-    url: "/#-experiences"
+    url: "/#experiences"
   # - title: "Educations"
   #   url: "/#-educations"
 

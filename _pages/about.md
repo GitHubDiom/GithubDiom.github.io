@@ -50,7 +50,8 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+<!-- # 📝 Publications  -->
+# Publications 
 <div>
 (*Corresponging Author)
 </div>
@@ -66,7 +67,7 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 <li><div class="pubtitle">TNSM</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10090246">TADRP: Towards Thermal-Aware Data Replica Placement in Data-Intensive Data Centers.</a> J. Li, Yuhui Deng*, Y. Zhou, <span class="font-bold">Zhaorui WU</span>, Shujie Pang and Geyong Min.</li>
 </ul>
 
-<a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
+<a href='https://scholar.google.com/citations?user=TiIzqbQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
