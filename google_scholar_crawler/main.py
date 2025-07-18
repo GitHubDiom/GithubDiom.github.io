@@ -4,7 +4,8 @@ from datetime import datetime
 import os
 from scholarly._proxy_generator import MaxTriesExceededException
 
-
+print("正在创建结果目录...")
+os.makedirs("results", exist_ok=True)
 try:
     print("正在查找作者信息...")
     # Setup proxy
