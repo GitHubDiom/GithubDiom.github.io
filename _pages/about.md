@@ -41,7 +41,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan University under the supervision of [Prof. Yuhui Deng](https://www.scholat.com/yhdeng). Since September 2024, I have been participating in a joint Ph.D program at the University of Exeter under the supervision of [Prof. Geyong Min](https://computerscience.exeter.ac.uk/people/profile/index.php?username=gm321). My research interests are centered around cloud computing, including Containerization Data Center and Serverless Computing. Specifically, I am interested in system design within serverless frameworks and providing innovative solutions to enhance performance and efficiency.
+I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan University under the supervision of [Prof. Yuhui Deng](https://www.scholat.com/yhdeng). From September 2024 to August 2025, I was a visiting student at the University of Exeter under the supervision of [Prof. Geyong Min](https://computerscience.exeter.ac.uk/people/profile/index.php?username=gm321). My research interests are centered around cloud computing, including Containerization Data Center and Serverless Computing. Specifically, I am interested in system design within serverless frameworks and providing innovative solutions to enhance performance and efficiency.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -56,6 +56,7 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 (*Corresponging Author)
 </div>
 <ul>
+<li><div class="pubtitle">TCC</div> &nbsp;<a href="https://www.computer.org/csdl/journal/cc/5555/01/11260633/2bM8kNamB6E">Chrono: Efficient Serverless Analytics with Adaptive Fine-grained Partitioning and Shadow Execution.</a> <span class="font-bold">Zhaorui Wu</span>, Yuhui Deng*, Jiande Huang, Qifen Yang, Peng Zhou, and Geyong Min.</li>
 <li><div class="pubtitle">TC</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10391067/">FaaSBatch: Boosting Serverless Efficiency With In-Container Parallelism and Resource Multiplexing.</a> <span class="font-bold">Zhaorui Wu</span>, Yuhui Deng*, Yi Zhou, Jie Li, Shujie Pang, and Xiao Qin.</li>
 <li><div class="pubtitle">TPDS</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10275106">HashCache: Accelerating Serverless Computing by Skipping Duplicated Function Execution.</a> <span class="font-bold">Zhaorui Wu</span>, Yuhui Deng*, Yi Zhou, Lin Cui, and Xiao Qin.</li>
 <li><div class="pubtitle">ICDCS 2023</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10272462">FaaSBatch: Enhancing the Efficiency of Serverless Computing by Batching and Expanding Functions.</a> <span class="font-bold">Zhaorui Wu</span>, Yuhui Deng*, Yi Zhou, Jie Li, and Shujie Pang.</li>
@@ -79,7 +80,7 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 
 <!-- # 📖 Educations -->
 # Experiences
-- *2024.09 - Now*, Joint Ph.D program, Department of Computer Science, University of Exeter.
+- *2024.09 - 2025.08*, Visiting Student, Department of Computer Science, University of Exeter.
 - *2021.09 - Now*, Ph.D. student, Department of Computer Science, Jinan University.
 - *2023.07*, Presented "FaaSBatch: Enhancing the Efficiency of Serverless Computing by Batching and Expanding Functions" at ICDCS 2023 in Hong Kon.
 - *2020.05 - 2020.08*, Software Engineer Intern in Tencent Inc.
