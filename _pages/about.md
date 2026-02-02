@@ -41,7 +41,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan University under the supervision of [Prof. Yuhui Deng](https://www.scholat.com/yhdeng). From September 2024 to August 2025, I was a visiting student at the University of Exeter under the supervision of [Prof. Geyong Min](https://experts.exeter.ac.uk/23192-geyong-min). My research interests are centered around cloud computing, including Containerization Data Center and Serverless Computing. Specifically, I am interested in system design within serverless frameworks and providing innovative solutions to enhance performance and efficiency.
+I am a Researcher at the Department of Computer Science, Guangdong University of Technology. I received my Ph.D. degree from [Jinan University](https://dsc.jnu.edu.cn/) in December 2025 under the supervision of [Prof. Yuhui Deng](https://www.scholat.com/yhdeng). From September 2024 to August 2025, I was a visiting student at the University of Exeter under the supervision of [Prof. Geyong Min](https://experts.exeter.ac.uk/23192-geyong-min). My research interests are centered around cloud computing, including Containerization Data Center and Serverless Computing. Specifically, I am interested in system design within serverless frameworks and providing innovative solutions to enhance performance and efficiency.
+
+I serve as a reviewer for IEEE Transactions on Computers (TC), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) and Journal of Supercomputing.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -80,8 +82,9 @@ I am now a Ph.D. candidate at [DscLab](https://dsc.jnu.edu.cn/) in Jinan Univers
 
 <!-- # 📖 Educations -->
 # Experiences
+- *2025.12 - Now*, Researcher, Department of Computer Science, Guangdong University of Technology.
 - *2024.09 - 2025.08*, Visiting Student, Department of Computer Science, University of Exeter.
-- *2021.09 - Now*, Ph.D. student, Department of Computer Science, Jinan University.
+- *2021.09 - 2025.12*, Ph.D., Department of Computer Science, Jinan University.
 - *2023.07*, Presented "FaaSBatch: Enhancing the Efficiency of Serverless Computing by Batching and Expanding Functions" at ICDCS 2023 in Hong Kon.
 - *2020.05 - 2020.08*, Software Engineer Intern in Tencent Inc.
 - *2018.09 - 2021.09*, Master, Department of Computer Science, Jinan University.
