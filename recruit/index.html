@@ -25,14 +25,24 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  background: #000;
+  background: #0a1628;
   font-family: 'Noto Sans SC', sans-serif;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  color: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.deck-wrapper {
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
-  color: var(--white);
 }
 
 .deck {
@@ -40,6 +50,8 @@ body {
   width: 1280px;
   height: 720px;
   overflow: hidden;
+  flex-shrink: 0;
+  transform-origin: center center;
 }
 
 .slide {
@@ -354,7 +366,7 @@ body {
 </style>
 </head>
 <body>
-<div class="deck" id="deck">
+<div class="deck-wrapper"><div class="deck" id="deck">
 
 <!-- SLIDE 1 -->
 <div class="slide active" data-idx="0">
@@ -677,7 +689,7 @@ body {
   </div>
 </div>
 
-</div>
+</div></div>
 
 <div class="nav-area">
   <button id="btn-prev">&#x25C2;</button>
@@ -739,6 +751,18 @@ var photoSrc = 'data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEJZQllAAD/4R8kRXhpZgAAS
   });
 
   pageNumEl.textContent = '1 / ' + total;
+
+  // Auto-scale deck to fit viewport
+  function scaleDeck() {
+    var deck = document.getElementById('deck');
+    var scaleX = window.innerWidth / 1280;
+    var scaleY = window.innerHeight / 720;
+    var scale = Math.min(scaleX, scaleY);
+    deck.style.transform = 'scale(' + scale + ')';
+  }
+  scaleDeck();
+  window.addEventListener('resize', scaleDeck);
+
 })();
 </script>
 </body>
